@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-netlify-deploy"
+    }
+  },
+  "defaultProject": "angular-netlify-deploy",
+  "cli": {
+    "analytics": "87297f2e-3a45-4323-9e53-d58181c785f3"
+  }
 }
